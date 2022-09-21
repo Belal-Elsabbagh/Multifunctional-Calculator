@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2edb4af-729c-48eb-9ec0-e689236d38b4": {
+      "ProjectGuid": "e2edb4af-729c-48eb-9ec0-e689236d38b4",
+      "DisplayName": "Multifunctional Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

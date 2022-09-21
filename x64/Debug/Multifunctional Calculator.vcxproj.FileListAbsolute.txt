@@ -1,0 +1,2 @@
+D:\Visual Studio Projects\Multifunctional Calculator\x64\Debug\Multifunctional Calculator.exe
+D:\Visual Studio Projects\Multifunctional Calculator\x64\Debug\Multifunctional Calculator.pdb
